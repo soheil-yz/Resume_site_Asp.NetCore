@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\ie\\PIE.htc",
+      "PackagePath": "staticwebassets\\css\\ie\\PIE.htc"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\ie\\backgroundsize.min.htc",
+      "PackagePath": "staticwebassets\\css\\ie\\backgroundsize.min.htc"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\ie\\html5shiv.js",
+      "PackagePath": "staticwebassets\\css\\ie\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\ie\\v8.css",
+      "PackagePath": "staticwebassets\\css\\ie\\v8.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\images\\overlay.png",
+      "PackagePath": "staticwebassets\\css\\images\\overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\skel.css",
+      "PackagePath": "staticwebassets\\css\\skel.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\style-large.css",
+      "PackagePath": "staticwebassets\\css\\style-large.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\style-medium.css",
+      "PackagePath": "staticwebassets\\css\\style-medium.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\style-small.css",
+      "PackagePath": "staticwebassets\\css\\style-small.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\style-xlarge.css",
+      "PackagePath": "staticwebassets\\css\\style-xlarge.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\style-xsmall.css",
+      "PackagePath": "staticwebassets\\css\\style-xsmall.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\fulls\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\fulls\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\fulls\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\fulls\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\fulls\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\fulls\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\thumbs\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\thumbs\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\thumbs\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\thumbs\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\thumbs\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\images\\thumbs\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\js\\init.js",
+      "PackagePath": "staticwebassets\\js\\init.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\js\\jquery.poptrox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.poptrox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\js\\skel.min.js",
+      "PackagePath": "staticwebassets\\js\\skel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\sass\\_vars.scss",
+      "PackagePath": "staticwebassets\\sass\\_vars.scss"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\sass\\ie\\v8.scss",
+      "PackagePath": "staticwebassets\\sass\\ie\\v8.scss"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\sass\\style-large.scss",
+      "PackagePath": "staticwebassets\\sass\\style-large.scss"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\sass\\style-medium.scss",
+      "PackagePath": "staticwebassets\\sass\\style-medium.scss"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\sass\\style-small.scss",
+      "PackagePath": "staticwebassets\\sass\\style-small.scss"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\sass\\style-xlarge.scss",
+      "PackagePath": "staticwebassets\\sass\\style-xlarge.scss"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\sass\\style-xsmall.scss",
+      "PackagePath": "staticwebassets\\sass\\style-xsmall.scss"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MYProfilo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MYProfilo.props",
+      "PackagePath": "build\\MYProfilo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MYProfilo.props",
+      "PackagePath": "buildMultiTargeting\\MYProfilo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MYProfilo.props",
+      "PackagePath": "buildTransitive\\MYProfilo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

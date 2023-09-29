@@ -1,12 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using MYProfilo.Models;
-using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
-using MYProfilo.Models;
+
 namespace MYProfilo.Controllers
 {
     public class HomeController : Controller
@@ -46,7 +43,9 @@ namespace MYProfilo.Controllers
             var contact = new Contact()
             {
                 Email = "soheilyazdanii1382@gmail.com",
+
                 Github = "github.com/soheil-yz",
+
                 Mobile = "09******522"
             };
             return View(contact);
