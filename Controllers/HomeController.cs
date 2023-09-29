@@ -43,7 +43,13 @@ namespace MYProfilo.Controllers
 
         public IActionResult Contact()
         {
-            return View();
+            var contact = new Contact()
+            {
+                Email = "soheilyazdanii1382@gmail.com",
+                Github = "github.com/soheil-yz",
+                Mobile = "09******522"
+            };
+            return View(contact);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
