@@ -41,7 +41,7 @@ namespace MYProfilo.Controllers
             return View(_portfolio);
         }
 
-        public IActionResult Privacy()
+        public IActionResult Contact()
         {
             return View();
         }
