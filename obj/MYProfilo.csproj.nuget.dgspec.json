@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProfilo\\MYProfilo.csproj": {}
+    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\MYProfilo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProfilo\\MYProfilo.csproj": {
+    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\MYProfilo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProfilo\\MYProfilo.csproj",
+        "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\MYProfilo.csproj",
         "projectName": "MYProfilo",
-        "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProfilo\\MYProfilo.csproj",
+        "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\MYProfilo.csproj",
         "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProfilo\\obj\\",
+        "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\MYProtfolio2\\MYProtfolio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
